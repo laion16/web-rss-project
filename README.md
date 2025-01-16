@@ -9,7 +9,7 @@ For the frontend, use ReactJs with Vite, and for the backend, NodeJs Express
 ## Installation
 Once you import the repository, you need to start the backend service that is intact with the DeepL API call:
 ```node src/backend/server.js```
-Después inciamos el app web:
+Then we start the web app:
 ```npm run dev```
 
 ## License
