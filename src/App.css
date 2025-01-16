@@ -1,0 +1,38 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.link{
+  margin: 0;
+  word-wrap: break-word;
+}
+
+.container{
+  padding: .5rem 0; 
+  justify-content: center;
+}
+
+.title{
+  font-weight: bold;
+}
+
+.item{
+  text-align: left;
+}
+
+.card{
+  margin: .5rem;
+  padding: 1rem .5rem;
+}
+
+.box-form{
+  padding: 2em;
+  width: 100vh;
+}
+
+.inp-url{
+  width: 75vh;
+}
